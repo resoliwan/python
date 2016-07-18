@@ -11,6 +11,7 @@ bin-release/
 # Executables
 *.swf
 *.air
+*.csv
 *.ipa
 *.apk
 *.csv
